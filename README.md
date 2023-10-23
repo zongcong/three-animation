@@ -1,2 +1,1 @@
-# three-animation
-threejs 一些动画例子，防止忘记
+# threejs 一些动画例子，防止忘记
